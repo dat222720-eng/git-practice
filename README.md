@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Le Quoc Dat>, MSSV <222720>.
+Đây là README từ nhánh conflict-demo.
