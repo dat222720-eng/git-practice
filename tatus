@@ -1,0 +1,53 @@
+[33mcommit 7f0f3b4509a393b70ceb868be97bd1ba56fdf7a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpractice-branch[m[33m)[m
+Author: LeQuocDat <dat222720@student.nctu.edu.vn>
+Date:   Tue Sep 30 14:42:01 2025 +0700
+
+    Apply stashed changes
+
+[33mcommit 6368fa29a3896ca7d4125f28c99e7491f1d474d0[m
+Author: LeQuocDat <dat222720@student.nctu.edu.vn>
+Date:   Tue Sep 30 14:42:00 2025 +0700
+
+    Add note.md
+
+[33mcommit d1df51513a3ab254bafa1e8b8077553bb72138e5[m
+Author: LeQuocDat <dat222720@student.nctu.edu.vn>
+Date:   Tue Sep 30 14:37:34 2025 +0700
+
+    Restore readme changes
+
+[33mcommit 34d8ad82002c3fa1a3d63f8849bf94086829e03c[m
+Author: LeQuocDat <dat222720@student.nctu.edu.vn>
+Date:   Tue Sep 30 14:27:45 2025 +0700
+
+    Restore readme changes
+
+[33mcommit 1c5f51003e2c80051a1a9759343c3d8c24f8412b[m
+Author: LeQuocDat <dat222720@student.nctu.edu.vn>
+Date:   Tue Sep 30 14:26:22 2025 +0700
+
+    Add note.md
+
+[33mcommit 3996e184c22e283120ba00bc0ff2211fb8d7b674[m[33m ([m[1;31morigin/practice-branch[m[33m)[m
+Author: LeQuocDat <dat222720@student.nctu.edu.vn>
+Date:   Tue Sep 30 13:52:10 2025 +0700
+
+    Remove exercise1
+
+[33mcommit dfb5ed810f1f02e437f67392396788fab5dcffd6[m
+Author: LeQuocDat <dat222720@student.nctu.edu.vn>
+Date:   Tue Sep 30 13:52:09 2025 +0700
+
+    Rename practice1 to exercise1
+
+[33mcommit 3bd6b4a4d1c48cea35a83c26a0ec160b1476ffda[m
+Author: LeQuocDat <dat222720@student.nctu.edu.vn>
+Date:   Tue Sep 30 13:48:01 2025 +0700
+
+    Add practice1
+
+[33mcommit 9a9019f85fadf1931da33313f483e1003b77cfa3[m[33m ([m[1;31morigin/user[m[33m, [m[1;32muser[m[33m)[m
+Author: LeQuocDat <dat222720@student.nctu.edu.vn>
+Date:   Tue Sep 9 16:32:59 2025 +0700
+
+    Add user1.txt with student info
